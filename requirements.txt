@@ -1,0 +1,9 @@
+unsloth
+kaggle
+huggingface_hub
+notebook
+jupyter
+ipython
+ipykernel
+pandas
+openpyxl
